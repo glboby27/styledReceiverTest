@@ -18,19 +18,3 @@
   background-image: url(watermark.png);
   background-size: 57px 57px;
 }
-
-.pause {
-  background-image: url(pause.png);
-}
-
-.play {
-  background-image: url(play.png);
-}
-
-.spinner {
-  background-image: url(spinner.png);
-}
-
-.buffering {
-  background-image: url(buffering.png);
-}
